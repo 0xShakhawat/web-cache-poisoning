@@ -4,14 +4,15 @@ This repository contains a set of resources for learning and testing web cache p
 
 ## Files in this Repository
 
-1. **[Exploiting Cache Design Flaws](./exploiting-cache-design-flaws.md)**  
+1. **[Web Cache Poisoning Overview](./web-cache-poisoning.md)**  
+   This document provides an introduction to web cache poisoning, explaining the core concepts, the attack surface, and common methods for exploiting cache vulnerabilities.
+
+
+2. **[Exploiting Cache Design Flaws](./exploiting-cache-design-flaws.md)**  
    Learn how to exploit cache design flaws to bypass protections and manipulate cached content.
 
-2. **[Exploiting Cache Implementation Flaws](./exploiting-cache-implementation-flaws.md)**  
+3. **[Exploiting Cache Implementation Flaws](./exploiting-cache-implementation-flaws.md)**  
    Explore how flaws in the specific implementation of cache systems can introduce vulnerabilities, including cache key flaws and internal cache issues.
-
-3. **[Web Cache Poisoning Overview](./web-cache-poisoning.md)**  
-   This document provides an introduction to web cache poisoning, explaining the core concepts, the attack surface, and common methods for exploiting cache vulnerabilities.
 
 ## About
 
